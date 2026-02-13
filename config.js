@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Will You Be My Valentine Hbiba dyali ? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -44,14 +44,14 @@ const CONFIG = {
     loveMessages: {
         extreme: "WOOOOW You love me that much??",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        normal: "ah bon you love me this much ?"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come prepare to your pottery class! and also pick up some gifts for you my baby love d'amour chérie!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Yay! I'm the happiest person :) ",
+        message: "Now come prepare to your pottery class! i also got some gifts for you my baby love d'amour chérie!",
+        emojis: "💖🤗❤️"  // These will bounce around
     },
 
     // Color scheme for the website
