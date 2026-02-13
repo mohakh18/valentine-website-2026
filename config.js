@@ -22,13 +22,13 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love sooo much you! ❤️"           // Secret hover message
+            text: "So… after all this time, do you still have a crush on your husband??",                                    // First interaction
+            yesBtn: "Always 😌",                                             // Text for "Yes" button
+            noBtn: "Maybe...",                                               // Text for "No" button
+            secretAnswer: "I don't just like you, I am crazy about you sooo much you! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
+            text: "How much do you love me… ",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much??",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀",              // Shows when they go past 1000%
+        extreme: "WOOOOW You love me that much?? lets make a baby.",  // Shows when they go past 5000%
+        high: "Hummmm Careful thats the kind of love were i get tons of bjs 🚀",              // Shows when they go past 1000%
         normal: "ah bon you love me this much ?"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the happiest person :) ",
-        message: "Now come prepare to your pottery class! i also got some gifts for you my baby love d'amour chérie!",
+        title: "That’s my wife. ❤️ ",
+        message: "Now prepare to your pottery class! i got some gifts too !",
         emojis: "💖🤗❤️"  // These will bounce around
     },
 
